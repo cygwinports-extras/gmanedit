@@ -1,0 +1,5 @@
+inherit gnome2
+
+DESCRIPTION="GNOME man pages editor"
+HOMEPAGE="http://sourceforge.net/projects/gmanedit2/"
+SRC_URI="mirror://sourceforge/${PN}2/${P}.tar.gz"
